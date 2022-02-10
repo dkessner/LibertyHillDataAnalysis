@@ -1,5 +1,26 @@
 # Liberty Hill Data Analysis
 
+## TODO
+
+- research availability of data on incarcerated youth (<18), and
+  in particular data by gender, less than 5 years old
+
+- research what types of data are available on LAPD online
+
+- research Million Dollar Hoods
+    - what are their data sources?
+    - make note of ideas about questions that can be
+      asked/answered, and visualization
+
+
+## Links
+
+[CA DOJ Open Justice project](https://openjustice.doj.ca.gov/)  
+
+[LAPD online](https://www.lapdonline.org/)
+
+[Million dollar hoods](http://milliondollarhoods.org)
+
 ## School to Prison Pipeline (Ezra)
 
 [stop data k12](https://openjustice.doj.ca.gov/exploration/stop-data-k12)  
@@ -13,3 +34,6 @@
     - Single out arrest made on people under 18
     - Types of arrests made based of offense
 - Only has info up to 2019
+
+
+
